@@ -4,7 +4,7 @@
   <title><![CDATA[sharkhead的测试博客]]></title>
   <link href="http://sharkhead.github.com/pages/atom.xml" rel="self"/>
   <link href="http://sharkhead.github.com/pages/"/>
-  <updated>2012-04-17T20:02:19+08:00</updated>
+  <updated>2012-04-17T20:06:48+08:00</updated>
   <id>http://sharkhead.github.com/pages/</id>
   <author>
     <name><![CDATA[sharkhead]]></name>
@@ -18,12 +18,16 @@
     <link href="http://sharkhead.github.com/pages/blog/2012-04/xxoo/"/>
     <updated>2012-04-17T19:52:00+08:00</updated>
     <id>http://sharkhead.github.com/pages/blog/2012-04/xxoo</id>
-    <content type="html"><![CDATA[<h1>这是什么玩意儿！</h1>
+    <content type="html"><![CDATA[<h2>这是什么玩意儿！</h2>
 
 <p>今天我一直在思考三个问题：
 *    这是什么
 *    那是什么
 *    这tm都是什么</p>
+
+<p>好吧，看来我不会写<strong>东西</strong>了, 有些<em>人</em>也是这样</p>
+
+<p>先去<a href="http:/www.google.com">Google</a>一下嘛</p>
 ]]></content>
   </entry>
   
