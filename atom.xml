@@ -4,7 +4,7 @@
   <title><![CDATA[sharkhead的测试博客]]></title>
   <link href="http://sharkhead.github.com/pages/atom.xml" rel="self"/>
   <link href="http://sharkhead.github.com/pages/"/>
-  <updated>2012-04-17T20:27:51+08:00</updated>
+  <updated>2012-04-17T20:29:44+08:00</updated>
   <id>http://sharkhead.github.com/pages/</id>
   <author>
     <name><![CDATA[sharkhead]]></name>
@@ -59,9 +59,22 @@
 <li>xo</li>
 <li>ox</li>
 </ol>
-</li>
+
+
+<h1>include &lt;stdio.h></h1>
+
+int main()
+{
+
+<pre><code>printf("hello, world!\n");
+return 0;
+</code></pre>
+
+<p>}</p></li>
 </ul>
 
+
+<p>end</p>
 ]]></content>
   </entry>
   
