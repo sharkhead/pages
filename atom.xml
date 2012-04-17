@@ -1,23 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
+  <title><![CDATA[sharkhead的测试博客]]></title>
   <link href="http://sharkhead.github.com/pages/atom.xml" rel="self"/>
   <link href="http://sharkhead.github.com/pages/"/>
-  <updated>2012-04-17T17:33:39+08:00</updated>
+  <updated>2012-04-17T18:03:17+08:00</updated>
   <id>http://sharkhead.github.com/pages/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[sharkhead]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
   
   <entry>
+    <title type="html"><![CDATA[测试页面]]></title>
+    <link href="http://sharkhead.github.com/pages/blog/2012-04/ce-shi-ye-mian/"/>
+    <updated>2012-04-17T18:00:00+08:00</updated>
+    <id>http://sharkhead.github.com/pages/blog/2012-04/ce-shi-ye-mian</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[hello]]></title>
-    <link href="http://sharkhead.github.com/pages/blog/2012/04/17/hello/"/>
+    <link href="http://sharkhead.github.com/pages/blog/2012-04/hello/"/>
     <updated>2012-04-17T17:33:00+08:00</updated>
-    <id>http://sharkhead.github.com/pages/blog/2012/04/17/hello</id>
+    <id>http://sharkhead.github.com/pages/blog/2012-04/hello</id>
     <content type="html"><![CDATA[
 ]]></content>
   </entry>
