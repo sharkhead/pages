@@ -4,7 +4,7 @@
   <title><![CDATA[sharkhead的测试博客]]></title>
   <link href="http://sharkhead.github.com/pages/atom.xml" rel="self"/>
   <link href="http://sharkhead.github.com/pages/"/>
-  <updated>2012-04-17T19:03:44+08:00</updated>
+  <updated>2012-04-17T19:55:24+08:00</updated>
   <id>http://sharkhead.github.com/pages/</id>
   <author>
     <name><![CDATA[sharkhead]]></name>
@@ -12,6 +12,20 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[可以写中文吗]]></title>
+    <link href="http://sharkhead.github.com/pages/blog/2012-04/xxoo/"/>
+    <updated>2012-04-17T19:52:00+08:00</updated>
+    <id>http://sharkhead.github.com/pages/blog/2012-04/xxoo</id>
+    <content type="html"><![CDATA[<h1>这是什么玩意儿！</h1>
+
+<p>今天我一直在思考三个问题：
+* 这是什么
+* 那是什么
+* 这tm都是什么</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[测试页面]]></title>
