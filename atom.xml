@@ -4,7 +4,7 @@
   <title><![CDATA[sharkhead's note]]></title>
   <link href="http://sharkhead.github.com/pages/atom.xml" rel="self"/>
   <link href="http://sharkhead.github.com/pages/"/>
-  <updated>2012-04-18T14:15:20+08:00</updated>
+  <updated>2012-04-18T14:28:59+08:00</updated>
   <id>http://sharkhead.github.com/pages/</id>
   <author>
     <name><![CDATA[sharkhead]]></name>
@@ -12,81 +12,6 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
-  
-  <entry>
-    <title type="html"><![CDATA[可以写中文吗]]></title>
-    <link href="http://sharkhead.github.com/pages/blog/2012-04/xxoo/"/>
-    <updated>2012-04-17T19:52:00+08:00</updated>
-    <id>http://sharkhead.github.com/pages/blog/2012-04/xxoo</id>
-    <content type="html"><![CDATA[<h2>这是什么玩意儿！</h2>
-
-<hr />
-
-<p>今天我一直在思考三个问题：
-1.     这是什么
-2.     那是什么
-3.     这tm都是什么</p>
-
-<p>好吧，看来我不会写<strong>东西</strong>了, 有些<em>人</em>也是这样</p>
-
-<p>先去<a href="http://www.google.com">Google</a>一下嘛</p>
-
-<ul>
-<li>  xxoo</li>
-<li>  ooxx</li>
-<li>  xoxo</li>
-<li>  oxox</li>
-</ul>
-
-
-<p>这个叫作区块引用 Blockquotes</p>
-
-<blockquote><p>区块</p>
-
-<blockquote><p>引用的引用</p>
-
-<blockquote><p>哈哈的哈哈</p></blockquote></blockquote></blockquote>
-
-<ul>
-<li>尼码第一
-
-<ul>
-<li>xx</li>
-<li>oo</li>
-</ul>
-</li>
-<li>尼码第二
-
-<ol>
-<li>xo</li>
-<li>ox</li>
-</ol>
-</li>
-</ul>
-
-
-<hr />
-
-<figure class='code'><figcaption><span></span></figcaption><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
-<span class='line-number'>2</span>
-<span class='line-number'>3</span>
-<span class='line-number'>4</span>
-<span class='line-number'>5</span>
-<span class='line-number'>6</span>
-</pre></td><td class='code'><pre><code class='c'><span class='line'><span class="cp">#include &lt;stdio.h&gt;</span>
-</span><span class='line'><span class="kt">int</span> <span class="nf">main</span><span class="p">()</span>
-</span><span class='line'><span class="p">{</span>
-</span><span class='line'>    <span class="n">printf</span><span class="p">(</span><span class="s">&quot;hello, world!</span><span class="se">\n</span><span class="s">&quot;</span><span class="p">);</span>
-</span><span class='line'>    <span class="k">return</span> <span class="mi">0</span><span class="p">;</span>
-</span><span class='line'><span class="p">}</span>
-</span></code></pre></td></tr></table></div></figure>
-
-
-<hr />
-
-<p>end</p>
-]]></content>
-  </entry>
   
   <entry>
     <title type="html"><![CDATA[测试页面]]></title>
